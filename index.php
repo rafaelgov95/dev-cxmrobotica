@@ -120,7 +120,7 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img class="first-slide" src="public/img/logo.jpg" alt="First slide">
+                    <img class="first-slide" src="public/img/wp.jpg" alt="First slide">
                     <div class="container">
                         <div class="carousel-caption">
                             <!--                                          <h1>Palavras.</h1>-->
@@ -130,7 +130,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img class="second-slide" src="public/img/horta2.jpg">
+                    <img class="second-slide" src="public/img/wp.jpg">
                     <div class="container">
                         <div class="carousel-caption">
                             <!--<h1>fdafas.</h1>-->
@@ -138,29 +138,6 @@
                             <!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>-->
                         </div>
                     </div>
-                </div>
-                <div class="item">
-                    <img class="third-slide" src="public/img/horta3.jpg" alt="Third slide">
-                    <div class="container">
-                        <div class="carousel-caption">
-                            <!--<h1>fadsfa</h1>-->
-                            <!--<h1>fadsfa</h1>-->
-                            <!--<p>Agrião e alface. Salada garantida.</p>-->
-                            <!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>-->
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <img class="fourth-slide" src="public/img/horta4.jpg" alt="Third slide">
-                    <div class="container">
-                        <div class="carousel-caption">
-                            <!--<h1>fadsfa</h1>-->
-                            <!--<h1>fadsfa</h1>-->
-                            <p>Agrião e alface. Salada garantida.</p>
-                            <!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>-->
-                        </div>
-                    </div>
-
                 </div>
                 <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
                     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -178,81 +155,7 @@
             <!-- Wrap the rest of the page in another container to center all the content. -->
             <br>
             <br>
- placeholder image" width="140" height="140">
-                            <h2 style="color:#0f0f0f;font-size:50px;" >Serviços</h2>
-
-                            <p align="center"style="color: #FFF;" class="lead">HidropoNect e TerraNect, são sistemas  que oferecem um acompamento de sua produção, em todos os estágios de desenvolvimento, sejá em terra ou em hidroponia, tudo isso pela Web.</p>
-
-                        </div>
-
-<!--<p><a c lass="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
-                    </div>  
-
-                    <div class="col-lg-2">
-                        <!--<img class="img-circle" src="public/img/horta2.jpg" alt="Generic placeholder image" width="140" height="140">-->
-                        <!--<h2 style="color: #FFF">Endereço</h2>-->
-                        <!--<p style="color: #FFF">mais coisa</p>-->
-                        <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
-                    </div>  
-                </div>
-                <!-- /.row -->
-
-
-                <!-- START THE FEATURETTES -->
-
-                <hr class="featurette-divider">
-
-                <div class="row featurette">
-                    <div class="col-md-8" style="margin-top:-50px">
-                        <br>
-                        <br><br>
-                        <div style="margin-left: 50px ;"> <h1 style="font-size:80px;color: #FFF;font"class="text-primary"> Como  <span class="text" style="color: #0f0f0f"> Funciona?</span></h2>
-
-                                <p align="justify"style="color: #FFF; " class="lead">São um conjunto de software e hardware, construidos sobre a base de códigos "OpenSorc", com objetivo de automatizar relatórios e gráficos de sua produção, sendo fácil sua gestão.</p>
-                        </div>
-
-                    </div>
-                    <div class="col-md-4">
-                        <img class="featurette-image img-responsive center-block img-rounded" src="http://www.sandro.com.br/wp-content/uploads/2014/01/duvida.jpg" alt="" width="200px" height="500px">
-                    </div>
-                </div>
-
-                <hr class="featurette-divider">
-
-                <div class="row featurette">
-                    <div class="col-md-7 col-md-push-5">
-                        <h1 style=" font-size: 73px;color: #FFF"class="text-primary">Metodologia<span class="text" style="color: #0f0f0f"> PDCA</span></h2>
-                            <p align="justify"style="color: #FFF" class="lead">PDCA é um método de melhoria de produção estudada em administraçao, que proporciona uma melhor gestão, visando o aperfeiçoamento de cada processo. </p>
-                    </div>
-                    <div class="col-md-5 col-md-pull-7">
-                        <img class="featurette-image img-responsive center-block img-rounded" src="http://blog.maxce.com.br/wp-content/uploads/2013/12/PDCA_2.jpg" alt="" width="1000px" height="1000px">
-                    </div>
-                </div>
-
-                <hr class="featurette-divider"> 
-
-                <div class="row featurette">
-                    <div class="col-md-7">
-                        <h1 style=";font-size: 80px;color: #0f0f0f"class="text"> Lucro<span class="text" style="color: #FFF"> X </span> Tempo</h2>
-                            <p align="justify"  style="color: #FFF ;" class="lead">Em produção tempo é dinheiro, então que tal exigir o máximo de suas plantas, sabendo oque fazer sem esforço, apenas analizando os gráficos e relatórios gerados.</p>
-                    </div>
-                    <div class="col-md-5">
-
-                        <img class="featurette-image img-responsive center-block img-rounded" src="http://www.femicro-es.com.br/wp-content/uploads/2014/11/546355aa115b8.jpg" alt="" width="1000px" height="1000px">
-                    </div>
-                </div>
-
-                <hr class="featurette-divider">
-
-
-                <div align="center" style="margin-top: -20px" >
-                    <p style="color: #FFF ">&copy; 2016 Rafael Viana Company, Inc.</p>
-                    <br>
-                    <br>
-                </div>
-
-            </div><!-- /.container -->
-
+ 
 
             <!-- Bootstrap core JavaScript
             ================================================== -->
