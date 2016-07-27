@@ -1,0 +1,28 @@
+
+<html>
+    <head>
+        <title>Minha Página</title>
+        <script type="text/javascript">
+            var tempo_seg = 5; // Tempo em segundos
+            var tempo_ms = tempo_seg * 1000; // Tempo em milésimos de segundo
+            function Atualiza() {
+                goAjax("index_1.htm");
+                setTimeout("Atualiza()", tempo_ms);
+            }
+            function goAjax(url) {
+                xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("GET", url, true);
+                xmlhttp.onreadystatechange = function () {
+                    if (xmlhttp.readyState === 4) {
+                        retorno = xmlhttp.responseText;
+                        divisao = document.getElementById("divisao_refresh");
+                        divisao.innerHTML = retorno;
+                    }
+                };
+                xmlhttp.send(null);
+            }
+        </script>
+    </head>
+    <body id="divisao_refresh">
+    </body>
+</html>
