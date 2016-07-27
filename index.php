@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <script language='javascript'>var txt = "  \|/ Relatorio Para Hidroponia \|/ ";
+        <script language='javascript'>var txt ="Coxim Robótica - UFMS ";
             var veloc = 1000;
             var refr = null;
             function rotulo_title() {
@@ -46,7 +46,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="#" style="font-style: italic;font-family: 'Century Schoolbook L'; font-size:40px ; color: white">HidropoNect</a>
+                        <a class="navbar-brand" href="#" style="font-style: italic;font-family: 'Century Schoolbook L'; font-size:40px ; color: white">Coxim Robótica</a>
 
                     </div>
                     <div id="navbar" class="navbar-collapse collapse">
