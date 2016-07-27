@@ -178,20 +178,7 @@
             <!-- Wrap the rest of the page in another container to center all the content. -->
             <br>
             <br>
-            <div class="container marketing">
-
-                <!-- Three columns of text below the carousel -->
-                <div class="row">
-                    <div class="col-lg-2">
-        <!--                <img class="img-rounded" src="public/img/logo.jpg" alt="Generic placeholder image" width="140" height="140">
-                      <h2 style="color: #FFF">Produtos</h2>
-                      <p style="color: #FFF">produtos ofertaddos
-                      <p><a class="btn btn-default" href="#" role="but  ton">View details &raquo;</a></p>-->
-                    </div> 
-
-                    <div class="col-lg-8">
-                        <div align="center">
-                            <img class="img-circle" src="http://www.eleveninstrumentacao.com.br/ESW/Images/servicos.jpg" alt="Generic placeholder image" width="140" height="140">
+ placeholder image" width="140" height="140">
                             <h2 style="color:#0f0f0f;font-size:50px;" >Serviços</h2>
 
                             <p align="center"style="color: #FFF;" class="lead">HidropoNect e TerraNect, são sistemas  que oferecem um acompamento de sua produção, em todos os estágios de desenvolvimento, sejá em terra ou em hidroponia, tudo isso pela Web.</p>
